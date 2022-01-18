@@ -1,4 +1,4 @@
-P<template>
+<template>
   <v-container fluid class="promo">
       <v-content>
           <div class="text-center" style="margin-top: 13%">

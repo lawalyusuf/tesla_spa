@@ -1,4 +1,8 @@
 # tesla-spa
+```
+# TESLA UI and web application
+```
+I replicate the Tesla website's homepage and then program the complete web application.
 
 ## Project setup
 ```
